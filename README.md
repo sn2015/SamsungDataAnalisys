@@ -1,7 +1,7 @@
 # SamsungDataAnalysis
-Course project of Getting ana Cleaning data
+Course project of Getting and Cleaning data
 
-This analysis is made by Sergey Nazarov for Coursera Datascience Course project of Getting ana Cleaning data
+This analysis is made by Sergey Nazarov for Coursera Getting ana Cleaning data Project
 
 Windows 8.1
 R version 3.1.3 (2015-03-09) -- "Smooth Sidewalk"
@@ -9,7 +9,8 @@ Platform: x86_64-w64-mingw32/x64 (64-bit)
 
 package: dplyr
 
-Using row data obtained from these experiments **run_analysis.R** creates a tidy data set with the average of each variable for each activity and each subject.
+**run_analysis.R** creates a tidy data set using row data obtained from experiments
+it creates a tidy data set with the average of each variable for each activity and each subject.
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
